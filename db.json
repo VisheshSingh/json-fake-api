@@ -1,7 +1,22 @@
 {
-  "profiles": [
-    { "id": 1, "name": "John", "age": 35 },
-    { "id": 3, "name": "Peter", "age": 29 },
-    { "id": 3, "name": "Judy", "age": 24 }
-  ]
+  "business" = [
+      {
+        "name": "Ninja Wongo",
+        "url": "www.ninjawango.com",
+        "phone": "732-456-1234",
+        "hours": "Monday (9AM - 9PM), Tuesday (11AM - 1AM), Wednesday (Closed)"
+      },
+      {
+        "name": "Mario Bros",
+        "url": "www.mariobros.co.uk",
+        "phone": "972-123-4567",
+        "hours": "Monday (9AM - 9PM), Tuesday (10AM - 8PM), Wednesday (Closed)"
+      },
+      {
+        "name": "Padawan United",
+        "url": "www.padawanunited.net",
+        "phone": "484-256-7890",
+        "hours": "Monday (9AM - 9PM), Tuesday (Closed), Wednesday (9AM - 7PM)"
+      }
+    ];
 }
